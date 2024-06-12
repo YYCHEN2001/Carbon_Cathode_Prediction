@@ -1,4 +1,4 @@
-O,N,B,S,P,Specific surface area,Smicro,Smeso,Smicro/SSA,Pore volume,Vmicro,Vmeso,Vmicro/Vt,Dap,ID/IG,Electrolyte,Current collector,Active mass loading,Potential window,Current density,Specific capacity
+O,N,B,S,P,SSA,Smicro,Smeso,Smicro/SSA,PV,Vmicro,Vmeso,Vmicro/PV,Dap,ID/IG,Elyte,CC,AML,PW,CD,Cs
 7.15,3.52,0,0,0,1546.1,,,,0.5753,0.5407,0.03714,0.939857466,1.488390143,1.029,2M ZnSO4,carbon cloth,1,1.6,0.1,85
 8.12,3.79,3.66,0,0,1315.2,,,,0.5116,0.4765,0.05106,0.931391712,1.555961071,1.038,2M ZnSO4,carbon cloth,1,1.6,0.1,114
 21.55,3.29,0,0,0,1140.8,341.3,799.5,0.299176017,0.86,0.18,0.68,0.209302326,3.01542777,0.82,1M Zn(CF3SO3)2,stainless-steel mesh,2.5,1.8,0.1,90.2
